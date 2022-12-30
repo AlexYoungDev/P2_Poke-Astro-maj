@@ -1,4 +1,4 @@
-# projet_collectif_dataviz-team-maj
+# P2 PokeAstro/Team_maj
 
 
 https://alexluu13.github.io/P2_Poke-Astro-maj/
