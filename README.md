@@ -1,6 +1,6 @@
 # P2 PokeAstro/Team_maj
 
-- <p>Ce projet a pour objectif de développer une application web qui permette de visualiser des données de façon dynamique. Avec une utilisation de l'API Pokémon et une autre sur l'astrologie.</p>
+- <p>Ce projet a pour objectif de développer une application web qui permet de visualiser des données de façon dynamique. Avec une utilisation de l'API Pokémon et une autre sur l'astrologie.</p>
 
 <p><img align="center" alt="" src="https://github.com/Alexluu13/P2_Poke-Astro-maj/blob/master/pokeastro1.png"/></p>
 <p><img align="center" alt="" src="https://github.com/Alexluu13/P2_Poke-Astro-maj/blob/master/pokeastro2.png"/></p>
