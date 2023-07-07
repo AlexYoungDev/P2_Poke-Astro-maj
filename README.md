@@ -7,5 +7,5 @@
 
 <p>Ce site web à pour but de pouvoir trouver votre Pokémon, qui est associé à votre signe astrologique. Pour cela, il vous faut rentrer votre date de naissance dans les champs concernés.</p>
 
-Pour trouver votre Pokémon: c'est [ici](https://alexluu13.github.io/P2_Poke-Astro-maj/).
+Pour trouver votre Pokémon: c'est [ici]([https://alexluu13.github.io/P2_Poke-Astro-maj/](https://alexyoungdev.github.io/P2_Poke-Astro-maj/)https://alexyoungdev.github.io/P2_Poke-Astro-maj/).
 
